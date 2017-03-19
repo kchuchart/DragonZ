@@ -1,0 +1,6 @@
+<Page>
+    <StackLayout orientation="vertical">
+        <Label text="Home" />
+        <button text="Click" tap="goAbout" />
+    </StackLayout>
+</Page> 
